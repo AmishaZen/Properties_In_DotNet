@@ -1,0 +1,7 @@
+D:\DotNETBatch2021\Assignments\ConsoleAssignment8Jan2021\PrintDate\PrintDate\bin\Debug\PrintDate.exe.config
+D:\DotNETBatch2021\Assignments\ConsoleAssignment8Jan2021\PrintDate\PrintDate\bin\Debug\PrintDate.exe
+D:\DotNETBatch2021\Assignments\ConsoleAssignment8Jan2021\PrintDate\PrintDate\bin\Debug\PrintDate.pdb
+D:\DotNETBatch2021\Assignments\ConsoleAssignment8Jan2021\PrintDate\PrintDate\obj\Debug\PrintDate.csprojAssemblyReference.cache
+D:\DotNETBatch2021\Assignments\ConsoleAssignment8Jan2021\PrintDate\PrintDate\obj\Debug\PrintDate.csproj.CoreCompileInputs.cache
+D:\DotNETBatch2021\Assignments\ConsoleAssignment8Jan2021\PrintDate\PrintDate\obj\Debug\PrintDate.exe
+D:\DotNETBatch2021\Assignments\ConsoleAssignment8Jan2021\PrintDate\PrintDate\obj\Debug\PrintDate.pdb
